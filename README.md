@@ -1,2 +1,2 @@
 # LikeGPT
-AI Assistant
+An AI Assistant and chatbot based on OpenAI API
